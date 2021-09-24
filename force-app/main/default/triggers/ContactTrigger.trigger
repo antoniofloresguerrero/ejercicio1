@@ -5,13 +5,13 @@ if(trigger.isBefore){
            
         }
        
-   						 }
+                         }
         if(trigger.isAfter){
-   	 		if(trigger.isInsert){
+            if(trigger.isInsert){
             
         }
         if(trigger.isUpdate){
             
         }
-   							 }
+                             }
 }

@@ -8,4 +8,3 @@ trigger CreditCardTrigger on Credit_Card__c (after insert) {
       
     
 }
-

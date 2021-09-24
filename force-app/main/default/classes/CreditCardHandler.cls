@@ -1,11 +1,10 @@
-
 public  class CreditCardHandler {
-    
     public static void newOpportunityCard (List<Credit_Card__c> cardList){
         //1- Creacion de lista de CREDIT CARDS , que va tener implicitamente
         //una lista de OWNERS y de CONTACTOS
         //Se crea una lista de id's para guardar la información de los diferentes owners y contactos,
-        // que van pasando y que son campos (DE TIPO ID) de Credit Card
+        // que van pasando y que
+ 		//son campos (DE TIPO ID) de Credit Card
         //Lista de Owner
         Set<Id> ownerList = new Set<Id>();
         //Lista de contactos
